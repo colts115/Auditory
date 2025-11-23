@@ -14,15 +14,9 @@ The target group will be anyone who loves music, wants to share their love for t
 For AI integration, I am planning on having an AI model analyze the users prior activity, and then offer personalized recommendations based on said prior activity. 
 
 The tech stack I am plannig to integraete is: 
-- **FRONTEND**:
-React, Tailwind CSS
-- **BACKEND**:
-Node.js, Express
-- **DATA BASE**: 
-MONGO DB
-- **AI INTEGRATION**: OPEN AI API 
-- **DEPLOYMENT**: 
-Docker, Google Cloud 
+Python
+Flask
+
 
 ## Getting Started
 1. Clone the repository: `https://github.com/colts115/Auditory`
